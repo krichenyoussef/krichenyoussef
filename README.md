@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,javascript,html,css,vscode,github,git,figma,r" />
+    <img src="https://skillicons.dev/icons?i=python,mongodb,c,azure,java,mysql,flask" /><br>
 </div>
 
 <br/>
