@@ -28,9 +28,8 @@ Here are some ideas to get you started:
  
  🌱 I’m currently learning **Deep Learning**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/krichenyoussef/krichenyoussef/issues)**
+💬 Ask me about **Data Cleaning, Feature Selectioon, Modeling ... [here](https://github.com/krichenyoussef/krichenyoussef/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
