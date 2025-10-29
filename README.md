@@ -47,12 +47,12 @@ Here are some ideas to get you started:
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Frameworks-Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,springboot/"><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,javascript,html,css,vscode,github,git,figma,r"/><br>
-    <img src="https://skillicons.dev/icons?i=python,mongodb,c,docker,azure,java,mysql,flask"/><br>
+    <img src="https://skillicons.dev/icons?i=python,r,c,scala,java,bootstrap,javascript,html,css"/><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,docker,azure,mysql,flask,git,github,vscode"/><br>
 </div>
 
 <br/>
