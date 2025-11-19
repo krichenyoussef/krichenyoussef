@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    
-![krichenyoussef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krichenyoussef&count_private=true&show_icons=true)
+      
+![Stats](https://github-readme-stats.vercel.app/api?username=krichenyoussef&show_icons=true&count_private=true&include_all_commits=true)
 
 
 <br/>
