@@ -14,9 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Youssef+Krichen!;" />
-</h1>
+<h1 align="center">Hi there! 👋</h1>
+<h2 align="center">I'm <span style="font-weight:700;">Youssef Krichen</span></h2>
+
+<p align="center">
+  AI & Data Engineering Student · ENET'COM Sfax
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/youssef-krichen/">LinkedIn</a> ·
+  <a href="https://github.com/krichenyoussef">GitHub</a> ·
+  <a href="mailto:youssefkrichen6@gmail.com">Email</a>
+</p>
 
 <h3 align="center">A passionate Data Scientist from Tunisia tun</h3>
 
