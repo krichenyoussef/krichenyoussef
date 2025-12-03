@@ -65,13 +65,6 @@ Here are some ideas to get you started:
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-      
-![Stats](https://github-readme-stats.vercel.app/api?username=krichenyoussef&show_icons=true&count_private=true&include_all_commits=true)
-
-
-<br/>
 </div>
 
 <br/><br/>
