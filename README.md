@@ -61,11 +61,6 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=mongodb,docker,azure,mysql,flask,git,github,vscode"/><br>
 </div>
 
-<br/>
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-</div>
 
 <br/><br/>
 
