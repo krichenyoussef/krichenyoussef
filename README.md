@@ -1,68 +1,44 @@
-
-
-<!-- **krichenyoussef/krichenyoussef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi there! 👋</h1>
-<h2 align="center">I'm <span style="font-weight:700;">Youssef Krichen</span></h2>
+<h1 align="center">Hi, I'm Youssef Krichen 👋</h1>
 
 <p align="center">
-  AI & Data Engineering Student · ENET'COM Sfax
+  <a href="https://github.com/krichenyoussef">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+%26+Data+Engineering+Student;Passionate+Data+Scientist+from+Tunisia+🇹🇳;Currently+learning+Deep+Learning" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/youssef-krichen/">LinkedIn</a> ·
-  <a href="https://github.com/krichenyoussef">GitHub</a> ·
-  <a href="mailto:youssefkrichen6@gmail.com">Email</a>
+  <b>ENET'COM Sfax</b> · Data Cleaning · Feature Selection · Modeling
 </p>
 
-<h3 align="center">A passionate Data Scientist from Tunisia tun</h3>
+<p align="center">
+  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<br/>
+---
 
-<div align="center">
- 
- 🔭 I’m currently working on **My end of year project**
- 
- 🌱 I’m currently learning **Deep Learning**
+## 🔭 What I'm up to
 
-💬 Ask me about **Data Cleaning, Feature Selectioon, Modeling ... [here](https://github.com/krichenyoussef/krichenyoussef/issues)**
+- 🚀 Working on my **end-of-year project**: *[project name + one-line description]*
+- 🌱 Learning **Deep Learning**
+- 💬 Ask me about **Data Cleaning, Feature Selection, Modeling**
 
+## 🛠️ Tech stack
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:youssefkrichen6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/youssef-krichen-052a581b2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,docker,git,github,postgres,vscode" alt="Tech stack" />
+</p>
 
- <hr/>
- 
-<h2 align="center">⚒️ Frameworks-Languages-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,langchain/"><br>
-    <img src="https://skillicons.dev/icons?i=python,r,c,scala,java,bootstrap,javascript,html,css"/><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,docker,azure,mysql,flask,git,github,vscode"/><br>
-</div>
+## 📌 Featured projects
 
+| Project | Description | Stack |
+|---|---|---|
+| [**Project 1**](https://github.com/krichenyoussef/repo1) | What it does, in one line | Python · scikit-learn |
+| [**Project 2**](https://github.com/krichenyoussef/repo2) | What it does, in one line | PyTorch |
 
-<br/><br/>
+## 📊 GitHub stats
 
-<hr/>
-
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=krichenyoussef&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krichenyoussef&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
