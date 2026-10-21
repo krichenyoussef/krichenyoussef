@@ -17,13 +17,12 @@
 
 ---
 
-## 🔭 What I'm up to
+## What I'm up to
 
-- 🚀 Building **[Auralys](https://krichenyoussef.github.io/#projets)**, an AI assistant for after-sales and management teams: LangGraph agent, hybrid RAG (Qdrant + BM25), voice interface, deployed with Docker on GCP
-- 🎓 Graduate engineer in **Data Engineering & Decision Systems** from **ENET'COM Sfax**
-- 💼 **Open to AI Engineer / ML Engineer roles**, available immediately
-- 💬 Ask me about **LLM agents, RAG, evaluation (RAGAS, LangSmith) and putting AI into production**
-- 🌐 Portfolio: **[krichenyoussef.github.io](https://krichenyoussef.github.io)**
+- **Building [Auralys](https://krichenyoussef.github.io/#projets)**: an AI assistant for after-sales and management teams, with a LangGraph agent, hybrid RAG (Qdrant + BM25) and a voice interface, deployed with Docker on GCP.
+- **Graduate engineer** in Data Engineering & Decision Systems from ENET'COM Sfax.
+- **Open to AI Engineer / ML Engineer roles**, available immediately.
+- **Ask me about** LLM agents, RAG, evaluation (RAGAS, LangSmith) and putting AI into production.
 
 ## 🛠️ Tech stack
 
@@ -58,10 +57,10 @@
 ## 📌 Featured projects
 
 | Project | Description | Stack |
-|---|---|---|
-| [**Project 1**](https://github.com/krichenyoussef/repo1) | What it does, in one line | Python · scikit-learn |
-| [**Project 2**](https://github.com/krichenyoussef/repo2) | What it does, in one line | PyTorch |
-
+|:--|:--|:--|
+| [**Auralys**](https://krichenyoussef.github.io/#projets) | AI assistant for after-sales teams: LangGraph agent, hybrid RAG, voice, in production | LangGraph · Qdrant · FastAPI · Docker · GCP |
+| [**Anomaly detection**](https://github.com/krichenyoussef/Anomaly_detection) | LSTM autoencoder detecting market stress events in limit order book data | TensorFlow · Keras · Pandas |
+| [**DCGAN**](https://github.com/krichenyoussef/DCGAN) | GAN generating synthetic images to augment a small dataset | PyTorch |
 ## 📊 GitHub stats
 
 <p align="center">
