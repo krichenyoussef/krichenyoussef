@@ -19,9 +19,11 @@
 
 ## 🔭 What I'm up to
 
-- 🚀 Working on my **end-of-year project**: *[project name + one-line description]*
-- 🌱 Learning **Deep Learning**
-- 💬 Ask me about **Data Cleaning, Feature Selection, Modeling**
+- 🚀 Building **[Auralys](https://krichenyoussef.github.io/#projets)**, an AI assistant for after-sales and management teams: LangGraph agent, hybrid RAG (Qdrant + BM25), voice interface, deployed with Docker on GCP
+- 🎓 Graduate engineer in **Data Engineering & Decision Systems** from **ENET'COM Sfax**
+- 💼 **Open to AI Engineer / ML Engineer roles**, available immediately
+- 💬 Ask me about **LLM agents, RAG, evaluation (RAGAS, LangSmith) and putting AI into production**
+- 🌐 Portfolio: **[krichenyoussef.github.io](https://krichenyoussef.github.io)**
 
 ## 🛠️ Tech stack
 
