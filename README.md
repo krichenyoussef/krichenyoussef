@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/krichenyoussef">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+%26+Data+Engineering+Student;Passionate+Data+Scientist+from+Tunisia;Currently+learning+Deep+Learning" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=10000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+ML+Engineer)](https://git.io/typing-svg)
 </p>
 
 <p align="center">
