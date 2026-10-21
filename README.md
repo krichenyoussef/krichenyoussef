@@ -64,7 +64,6 @@
 ## GitHub stats
 
 <p align="center"><p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=krichenyoussef&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=stars,issues&include_all_commits=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krichenyoussef&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html" alt="Top languages" />
+  <<img height="160" src="https://streak-stats.demolab.com?user=krichenyoussef&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 </p>
