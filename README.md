@@ -54,14 +54,14 @@
 <img src="https://img.shields.io/badge/Linux-2d333b?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
 <img src="https://img.shields.io/badge/Git-2d333b?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 
-## 📌 Featured projects
+## Featured projects
 
 | Project | Description | Stack |
 |:--|:--|:--|
 | [**Auralys**](https://krichenyoussef.github.io/#projets) | AI assistant for after-sales teams: LangGraph agent, hybrid RAG, voice, in production | LangGraph · Qdrant · FastAPI · Docker · GCP |
 | [**Anomaly detection**](https://github.com/krichenyoussef/Anomaly_detection) | LSTM autoencoder detecting market stress events in limit order book data | TensorFlow · Keras · Pandas |
 | [**DCGAN**](https://github.com/krichenyoussef/DCGAN) | GAN generating synthetic images to augment a small dataset | PyTorch |
-## 📊 GitHub stats
+## GitHub stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=krichenyoussef&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
