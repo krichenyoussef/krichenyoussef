@@ -64,6 +64,6 @@
 ## GitHub stats
 
 <p align="center"><p align="center">
-  <<img height="160" src="https://streak-stats.demolab.com?user=krichenyoussef&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="160" src="https://streak-stats.demolab.com?user=krichenyoussef&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 </p>
