@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/krichenyoussef">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=10000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+ML+Engineer)](https://git.io/typing-svg)
+[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=10000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+ML+Engineer)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?size=25&duration=10000&center=true&vCenter=true&lines=AI+Engineer+%26+ML+Engineer)
 </p>
 
 <p align="center">
