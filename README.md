@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Youssef Krichen 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/krichenyoussef">
-[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=10000&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+ML+Engineer)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?size=25&duration=10000&center=true&vCenter=true&lines=AI+Engineer+%26+ML+Engineer)
+  <a href="https://github.com/krichenyoussef"> <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=10000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+ML+Engineer" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
