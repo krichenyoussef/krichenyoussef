@@ -27,9 +27,33 @@
 
 ## 🛠️ Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,docker,git,github,postgres,vscode" alt="Tech stack" />
-</p>
+**GenAI & LLM**<br/>
+<img src="https://img.shields.io/badge/LangGraph-2d333b?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LangChain-2d333b?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Gemini-2d333b?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Hugging_Face-2d333b?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Qdrant-2d333b?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/RAGAS-2d333b?style=flat-square" alt="RAGAS"/>
+
+**Machine Learning**<br/>
+<img src="https://img.shields.io/badge/Python-2d333b?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PyTorch-2d333b?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-2d333b?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/scikit--learn-2d333b?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/OpenCV-2d333b?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+
+**Backend & Data**<br/>
+<img src="https://img.shields.io/badge/FastAPI-2d333b?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/PostgreSQL-2d333b?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-2d333b?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Neo4j-2d333b?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j"/>
+
+**MLOps & Cloud**<br/>
+<img src="https://img.shields.io/badge/Docker-2d333b?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Google_Cloud-2d333b?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2d333b?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Linux-2d333b?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/Git-2d333b?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 
 ## 📌 Featured projects
 
