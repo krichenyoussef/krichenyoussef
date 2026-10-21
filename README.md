@@ -2,8 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/krichenyoussef">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+%26+Data+Engineering+Student;Passionate+Data+Scientist+from+Tunisia+🇹🇳;Currently+learning+Deep+Learning" alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+%26+Data+Engineering+Student;Passionate+Data+Scientist+from+Tunisia;Currently+learning+Deep+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
