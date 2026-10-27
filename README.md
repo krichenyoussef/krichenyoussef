@@ -19,10 +19,10 @@
 
 ## What I'm up to
 
-- **Building [Auralys](https://krichenyoussef.github.io/#projets)**: an AI assistant for after-sales and management teams, with a LangGraph agent, hybrid RAG (Qdrant + BM25) and a voice interface, deployed with Docker on GCP.
-- **Graduate engineer** in Data Engineering & Decision Systems from ENET'COM Sfax.
-- **Open to AI Engineer / ML Engineer roles**, available immediately.
-- **Ask me about** LLM agents, RAG, evaluation (RAGAS, LangSmith) and putting AI into production.
+* Built [Auralys](https://krichenyoussef.github.io/#projet): an AI assistant for after-sales and management teams, with a LangGraph agent, hybrid RAG (Qdrant + BM25) and a voice interface, deployed with Docker on GCP.
+* Built [ThinkAir](https://krichenyoussef.github.io/#thinkair): embedded AI for gas detection, with sensors and on-device classifiers (Edge Impulse, 99.4% validation accuracy) on Raspberry Pi, plus a decision agent that steers a mobile robot's patrol.
+* Graduate engineer in Data Engineering & Decision Systems from ENET'COM Sfax.
+* Open to AI Engineer / ML Engineer roles, available immediately.
 
 ## 🛠️ Tech stack
 
