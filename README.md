@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>AI Engineer / ML Engineer</b> · LLM Agents · RAG · MLOps
+  <b>AI/ML Engineer</b> · LLM Agents · RAG · MLOps
 </p>
 
 <p align="center">
